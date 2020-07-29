@@ -1,0 +1,45 @@
+.header{
+    height: 10%;
+}
+.loginContainer{
+    border: 1px solid #b1afaf;
+    border-radius: 10px;
+    padding: 2%;
+    background-color: #2C3431;
+    box-shadow: 4px 5px 12px -5px;
+}
+input{
+    width: 100%;
+    border-radius: 5px;
+    background: white;
+    color: rgb(21, 20, 20);
+}
+.btn{
+    border: 1px solid #c7c7c7eb !important;
+    background-color: #ffc107 !important;
+    border-color: #706f6c !important;
+    color: #000;
+}
+h2{
+    padding-bottom: 7%;
+    color: #FFF;
+    font-family: "Titillium Web", sans-serif;
+}
+input:focus{
+    border: #c7c7c7eb;
+}
+.right-inner-addon{
+    padding-right: 0px !important;
+}
+.container{
+    margin-top: 12%;
+}
+.loginField{
+    padding-bottom: 5%;
+}
+.validationMsg{
+    color: red;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 5px
+}
